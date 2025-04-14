@@ -1,12 +1,14 @@
+# https://github.com/MaksimArtemev/lab10-JO-MA.git
+# Partner 1: Maksim Artemev
+# Partner 2: Jazmin Ortega
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
 
 One function per operation, in order.
 """
-# https://github.com/MaksimArtemev/lab10-JO-MA.git
-# Partner 1: Maksim Artemev
-# Partner 2: Jazmin Ortega
+
 
 import math
 
