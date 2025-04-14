@@ -21,6 +21,8 @@ def divide(a, b):
     return b / a   # raise ZeroDivisionError if a == 0
 
 def logarithm(a, b):
+    if b <= 0 or a <= 0 or a == 1:
+        raise ValueError
     math.log(b, a)# use math library/raise ValueError
 
 def exponent(a, b):
