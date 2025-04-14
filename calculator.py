@@ -15,10 +15,6 @@ def subtract(a, b):
 def multiply(a, b):
     a * b
 
-def divide(a, b):
-    if a == 0:
-        raise ZeroDivisionError
-    return b / a   # raise ZeroDivisionError if a == 0
 
 def logarithm(a, b):
     if b <= 0 or a <= 0 or a == 1:
